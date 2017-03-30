@@ -5,7 +5,7 @@ Fork and reform iniparser project ( https://github.com/ndevilla/iniparser.git ),
 **Read string value:**
 ```cpp
 read_profile_string(const char *section, const char *key, 
-                    char *value, int size,const char *default_value, const char *file);
+                    char *value, int size, const char *default_value, const char *file);
 ```
 
 **Read int value:**
